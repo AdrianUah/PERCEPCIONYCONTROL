@@ -57,7 +57,7 @@ function avanzar_coordenadas(x_objetivo,y_objetivo)
             girar_coordenadas(x_objetivo, y_objetivo);
             avanzar;
         else   
-            girar;
+            girar_180;
             avanzar;
         end
     end
